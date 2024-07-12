@@ -8,3 +8,5 @@ This is whatsapp code:
 	3.Last Seen Code
 	
 	4. Attachmant(Images,Audio,Video) code.
+
+	5.Hiding the last seen
