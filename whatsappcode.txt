@@ -15,4 +15,6 @@ This is whatsapp code:
 
 	7.Adding the video call feature
 
+        8.Adding whatsapp group with your contacts.
+
 
